@@ -15,7 +15,14 @@ site) et un formulaire de vote
 # Développeur créa
 
 - [ ] Créer un CSS définissant les classes dont les noms sont donnés par Syhane
+* .container  = ( Largeur max + centrage du contenu ) 
+* .header-nav = ( Style du menu dans le header )
+* .section-title = ( Titres des sections ) 
+* .card = ( Encadrement d’un bloc d’information ) 
+
+
 - [ ] Trouver des photos d’oiseaux pour illustrer.
+  
 
 
 
