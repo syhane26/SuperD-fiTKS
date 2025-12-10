@@ -1,0 +1,25 @@
+{
+    "photos": [
+        {
+            "id": 1,
+            "title": "Coucher de soleil sur la Motte",
+            "description": "Un magnifique coucher de soleil captur\u00e9 au-dessus des for\u00eats de la Motte",
+            "author": "Jean Martin",
+            "votes": 0
+        },
+        {
+            "id": 2,
+            "title": "Faune sauvage",
+            "description": "Un cerf en plein c\u0153ur de son habitat naturel",
+            "author": "Marie Dupont",
+            "votes": 0
+        },
+        {
+            "id": 3,
+            "title": "Flore printani\u00e8re",
+            "description": "Les fleurs sauvages de la Motte au printemps",
+            "author": "Pierre Leclerc",
+            "votes": 0
+        }
+    ]
+}

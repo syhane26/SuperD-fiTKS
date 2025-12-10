@@ -1,0 +1,97 @@
+/* ------------------------------ */
+/*   STRUCTURE GÉNÉRALE DU SITE   */
+/* ------------------------------ */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+/* Centrage et largeur du contenu */
+.container {
+  width: 80%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* ------------------------------ */
+/*           HEADER + NAV         */
+/* ------------------------------ */
+
+header {
+  background: #2d5c34;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+header h1 {
+  margin: 5px 0;
+}
+
+.header-nav {
+  margin-top: 10px;
+}
+
+.header-nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+.header-nav a:hover {
+  text-decoration: underline;
+}
+
+/* ------------------------------ */
+/*        TITRES DE SECTIONS      */
+/* ------------------------------ */
+
+.section-title {
+  font-size: 1.8em;
+  color: #2d5c34;
+  margin-top: 30px;
+  border-left: 6px solid #2d5c34;
+  padding-left: 10px;
+}
+
+/* ------------------------------ */
+/*         CARTES / BLOCS         */
+/* ------------------------------ */
+
+.card {
+  background: white;
+  border: 1px solid #dcdcdc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+}
+
+/* ------------------------------ */
+/*          IMAGES DIVERSES       */
+/* ------------------------------ */
+
+.main-image,
+.amphibien {
+  display: block;
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 20px auto;
+}
+
+/* ------------------------------ */
+/*             FOOTER             */
+/* ------------------------------ */
+
+footer {
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+  background: #ddd;
+}
